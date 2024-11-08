@@ -1,0 +1,39 @@
+/* src/styles/Navbar.css */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    padding: 15px;
+    color: #fff;
+  }
+  
+  .navbar h2 {
+    margin: 0;
+  }
+  
+  .navbar form {
+    display: flex;
+  }
+  
+  .navbar input {
+    padding: 5px;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px 0 0 4px;
+  }
+  
+  .navbar button {
+    padding: 5px 15px;
+    font-size: 16px;
+    background-color: #ff4c4c;
+    color: #fff;
+    border: none;
+    border-radius: 0 4px 4px 0;
+    cursor: pointer;
+  }
+  
+  .navbar button:hover {
+    background-color: #ff3333;
+  }
+  

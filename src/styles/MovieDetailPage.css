@@ -1,0 +1,23 @@
+/* src/styles/MovieDetailPage.css */
+.movie-detail {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .movie-detail img {
+    width: 300px;
+    border-radius: 10px;
+    margin: 20px 0;
+  }
+  
+  .movie-detail h1 {
+    font-size: 32px;
+    margin: 20px 0;
+  }
+  
+  .movie-detail p {
+    font-size: 18px;
+    line-height: 1.6;
+    padding: 0 15px;
+  }
+  

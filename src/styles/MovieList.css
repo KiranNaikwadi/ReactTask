@@ -1,0 +1,13 @@
+/* src/styles/MovieList.css */
+.movie-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  /* Additional general page styling */
+  .page-container {
+    padding: 20px;
+  }
+  
